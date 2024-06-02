@@ -16,6 +16,10 @@ This repository only contains images in compliance with course policies that pre
 
 The private repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
 
+Notable libraries used:
+1. [gRPC](https://grpc.io/)
+2. [JWT-CPP](https://github.com/Thalhammer/jwt-cpp)
+
 # Team Members
 
 [Sahil Parekh](https://www.linkedin.com/in/parekh-sahil/)
