@@ -12,9 +12,9 @@ The system also provides an admin console which shows information about the numb
 
 # Information
 
-This repository only contains images in compliance with the course policies that prevent sharing and publishing code as per the academic integrity requirements.
+This repository only contains images in compliance with course policies that prevent publishing code to adhere with the academic integrity requirements.
 
-The private Repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
+The private repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
 
 # Team Members
 
