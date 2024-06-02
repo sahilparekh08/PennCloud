@@ -25,3 +25,8 @@ The private repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-
 [Manvi Agarwal](https://www.linkedin.com/in/manviagarwal27/)
 
 [Ryan Trotter](https://www.linkedin.com/in/ryan-trotter-4b3241204/)
+
+# System Architecture
+
+![System Architecture](https://github.com/sahilparekh08/PennCloud/blob/main/images/system_arch.jpg)
+
