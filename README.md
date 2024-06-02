@@ -20,6 +20,10 @@ Notable libraries used:
 1. [gRPC](https://grpc.io/)
 2. [JWT-CPP](https://github.com/Thalhammer/jwt-cpp)
 
+# System Architecture
+
+![System Architecture](https://github.com/sahilparekh08/PennCloud/blob/main/images/system_arch.jpg)
+
 # Team Members
 
 [Sahil Parekh](https://www.linkedin.com/in/parekh-sahil/)
@@ -29,8 +33,4 @@ Notable libraries used:
 [Manvi Agarwal](https://www.linkedin.com/in/manviagarwal27/)
 
 [Ryan Trotter](https://www.linkedin.com/in/ryan-trotter-4b3241204/)
-
-# System Architecture
-
-![System Architecture](https://github.com/sahilparekh08/PennCloud/blob/main/images/system_arch.jpg)
 
