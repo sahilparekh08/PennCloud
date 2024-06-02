@@ -14,11 +14,14 @@ The system also provides an admin console which shows information about the numb
 
 This repository only contains images in compliance with the course policies that prevent sharing and publishing code as per the academic integrity requirements.
 
-The private Repo CIS-5050-PennCloud contains all the code. Please reaxch out to me for access.
+The private Repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
 
 # Team Members
 
-Sahil Parekh
-Ashwin Alaparthi
-Manvi Agarwal
-Ryan Trotter
+[Sahil Parekh](https://www.linkedin.com/in/parekh-sahil/)
+
+[Ashwin Alaparthi](https://www.linkedin.com/in/ashwinalaparthi/)
+
+[Manvi Agarwal](https://www.linkedin.com/in/manviagarwal27/)
+
+[Ryan Trotter](https://www.linkedin.com/in/ryan-trotter-4b3241204/)
