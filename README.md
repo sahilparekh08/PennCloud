@@ -14,7 +14,7 @@ The system also provides an admin console which shows information about the numb
 
 This repository only contains images in compliance with course policies that prevent publishing code to adhere with the academic integrity requirements.
 
-The private repo [CIS-5050-PennCloud](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
+This [private repo](https://github.com/sahilparekh08/CIS-5050-PennCloud) contains all the code. Please [reach out to me](mailto:sahilparekh08@gmail.com) for access.
 
 Notable libraries used:
 1. [gRPC](https://grpc.io/)
@@ -23,14 +23,4 @@ Notable libraries used:
 # System Architecture
 
 ![System Architecture](https://github.com/sahilparekh08/PennCloud/blob/main/images/system_arch.jpg)
-
-# Team Members
-
-[Sahil Parekh](https://www.linkedin.com/in/parekh-sahil/)
-
-[Ashwin Alaparthi](https://www.linkedin.com/in/ashwinalaparthi/)
-
-[Manvi Agarwal](https://www.linkedin.com/in/manviagarwal27/)
-
-[Ryan Trotter](https://www.linkedin.com/in/ryan-trotter-4b3241204/)
 
